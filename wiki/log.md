@@ -10,6 +10,11 @@
 - **环境**: Python 3.14.3 + openpyxl 3.1.5（路径 C:\D\tools\Python\path\python.exe）
 - **冲突**: 无
 
+## [2026-09-25] sync | 推送项目到 GitHub
+- **变更**: git init + .gitignore + initial commit (25 files, 4702 insertions) + push to GitHub
+- **远程**: https://github.com/yxdongshine/LLM-Wiki (private repo, main branch)
+- **冲突**: 无
+
 ## [2026-09-25] sync | 安装 skill-creator 工具
 - **变更**: 全局安装 skill-creator@2.6.0 (npm)；运行 setup 链接 self-skill + 注入 AGENTS.md guidance
 - **环境**: Node.js npm 全局安装，路径 C:\Users\Administrator\AppData\Roaming\npm\node_modules\skill-creator
